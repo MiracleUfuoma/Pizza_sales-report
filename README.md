@@ -15,3 +15,5 @@ Using Power BI to analyze and clean data and also for dashboard visualizations.
 -Re-modelled the data relationship.
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter
+You can access my dashboard via this link:
+[pizza sales report.pdf](https://github.com/MiracleUfuoma/Pizza_sales-report/files/12821181/pizza.sales.report.pdf)
