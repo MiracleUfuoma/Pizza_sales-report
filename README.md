@@ -1,5 +1,10 @@
 # Pizza_sales-report
 Using Power BI to analyze and clean data and also for dashboard visualizations.
+
+<img width="960" alt="2023-10-03 (1)" src="https://github.com/MiracleUfuoma/Pizza_sales-report/assets/146808167/ba182be2-1f99-4b8b-beee-0be9e14c1242">
+<img width="960" alt="2023-10-03 (2)" src="https://github.com/MiracleUfuoma/Pizza_sales-report/assets/146808167/631912d8-1369-41cb-a18f-c105858f6ac6">
+
+
 🎯OBJECTIVE
 -To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency.
 
